@@ -136,7 +136,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="git-merge" />
                       </list>
                     </value>
                   </entry>
