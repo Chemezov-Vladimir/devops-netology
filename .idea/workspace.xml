@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6a1f37-f97b-476d-99c1-aa67df5d66e0" name="Default Changelist" comment="another restart homework">
+    <list default="true" id="4c6a1f37-f97b-476d-99c1-aa67df5d66e0" name="Default Changelist" comment="prepare for merge and rebase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/branching/merge.sh" beforeDir="false" afterPath="$PROJECT_DIR$/branching/merge.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618077204149</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="prepare for merge and rebase">
+      <created>1618077544218</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618077544218</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,13 +169,13 @@
     <MESSAGE value="Another commit from PyCharm" />
     <MESSAGE value="Another commit from PyCharm 0" />
     <MESSAGE value="Fast-forward merge prepare" />
-    <MESSAGE value="prepare for merge and rebase" />
     <MESSAGE value="merge: @ instead *" />
     <MESSAGE value="merge: use shift" />
     <MESSAGE value="git-rebase 1" />
     <MESSAGE value="git-rebase 2" />
     <MESSAGE value="restart home work again" />
     <MESSAGE value="another restart homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="another restart homework" />
+    <MESSAGE value="prepare for merge and rebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="prepare for merge and rebase" />
   </component>
 </project>
